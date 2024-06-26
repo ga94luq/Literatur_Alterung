@@ -1,14 +1,7 @@
 import pandas as pd
 import plotly.express as px
-import dash
 from dash import dcc, html, Dash
 from dash.dependencies import Input, Output
-from dash import Dash, dcc, html, Input, Output, callback
-import plotly.express as px
-import pandas as pd
-from datetime import datetime
-import math
-import plotly.graph_objects as go
 
 # Laden der Daten
 Pfad = 'https://raw.githubusercontent.com/ga94luq/Literatur_Alterung/main/Auswertungsdaten.csv'
@@ -57,9 +50,23 @@ app.layout = html.Div([
     # Div zur Darstellung der beiden Plots
     html.Div([
         dcc.Graph(id='scatter-plot-without-facet'),
+
+        # Schieberegler zur Einstellung der y-Achsen-Grenzen
+        html.Label('Y-Achsen Bereich (×10^6):'),
+        dcc.RangeSlider(
+            id='y-axis-slider',
+            min=(-0.02 * 10 ** 6),
+            max=(0.04 * 10 ** 6),
+            step=1,
+            value=[-0.02 * 10 ** 6, 0.04 * 10 ** 6],
+            marks={i: str(i / 10 ** 6) for i in
+                   range(int(-0.02 * 10 ** 6), int(0.04 * 10 ** 6) + 1, int(0.01 * 10 ** 6))}
+        ),
+
         dcc.Graph(id='scatter-plot-with-facet')
     ], style={'display': 'flex', 'flex-direction': 'column'})
 ])
+
 
 # Callback zur Aktualisierung der beiden Scatter Plots
 @app.callback(
@@ -67,10 +74,12 @@ app.layout = html.Div([
     Output('scatter-plot-with-facet', 'figure'),
     [Input('cell-checklist', 'value'),
      Input('paper-checklist', 'value'),
-     Input('chemie-checklist', 'value')]
+     Input('chemie-checklist', 'value'),
+     Input('y-axis-slider', 'value')]
 )
-def update_scatter_plots(selected_cells, selected_papers, selected_chemies):
-    filtered_df = df[df['Zelle'].isin(selected_cells) & df['Paper'].isin(selected_papers) & df['Chemie'].isin(selected_chemies)]
+def update_scatter_plots(selected_cells, selected_papers, selected_chemies, y_axis_range):
+    filtered_df = df[
+        df['Zelle'].isin(selected_cells) & df['Paper'].isin(selected_papers) & df['Chemie'].isin(selected_chemies)]
 
     # Scatter Plot ohne facet_row
     fig_without_facet = px.scatter(
@@ -110,7 +119,7 @@ def update_scatter_plots(selected_cells, selected_papers, selected_chemies):
     )
     fig_with_facet.update_traces(marker=dict(size=15))
     fig_with_facet.update_layout(
-        title='Scatter Plot of Volt/SOC vs (rel. Kal. Alterung %)/Tag with Facet Row',
+        title='rel. Kal. Alterung in % / Tag | Untergliedert je Zelle',
         xaxis_title='Volt/SOC',
         yaxis_title='rel. Kal. Alterung %/Tag',
         legend_title_text='Chemie',
@@ -120,10 +129,12 @@ def update_scatter_plots(selected_cells, selected_papers, selected_chemies):
             color='black'
         ),
         height=2000,  # Set the height of the plot
-        width=3000
+        width=3000,
+        yaxis=dict(range=[y / 10 ** 6 for y in y_axis_range])  # Set the y-axis range based on the slider input
     )
 
     return fig_without_facet, fig_with_facet
+
 
 # Run the app
 if __name__ == '__main__':
