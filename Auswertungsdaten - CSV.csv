@@ -337,66 +337,66 @@ UR18650ZY;2600;50;100;1,081;150;-0,000542;-1,409364535;-0,009395764;-3,429453702
 NITECORE 2000mAh (?);2000;50;100;1,242;0;0;0;0;0;Comparative Study on the Calendar Ageing;LMO
 NITECORE 2000mAh (?);2000;50;100;1,237;100;-0,002371;-4,741519928;-0,047415199;-17,30654774;Comparative Study on the Calendar Ageing;LMO
 NITECORE 2000mAh (?);2000;50;100;1,24;150;-0,001601;-3,201458961;-0,02134306;-7,790216805;Comparative Study on the Calendar Ageing;LMO
-APR18650M-A1;1100;;3,2 V;1,00015147;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,2 V;1,01215598;35;-0,000347314;-0,382045086;-0,010915574;-3,984184465;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,2 V;1,00838824;65;-0,00012905;-0,141954831;-0,00218392;-0,797130973;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,2 V;1,00734677;105;-6,99692E-05;-0,076966162;-0,000733011;-0,267549039;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,2 V;1,00612196;140;-4,37283E-05;-0,048101114;-0,000343579;-0,125406477;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,296 V;0,99837913;30;5,4029E-05;0,0594319;0,001981063;0,723088117;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,296 V;0,99606175;65;6,05885E-05;0,066647308;0,001025343;0,374250266;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,296 V;0,99311675;105;6,55548E-05;0,072110238;0,000686764;0,250668923;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,296 V;0,98989881;140;7,21514E-05;0,079366493;0,000566904;0,206919785;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,4 V;0,99511671;30;0,000162776;0,179053967;0,005968466;2,178489928;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,4 V;0,98844845;65;0,000177716;0,195487769;0,003007504;1,097739012;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,4 V;0,9808811;105;0,000182085;0,200293238;0,001907555;0,696257447;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,4 V;0,9737663;140;0,000187384;0,206121929;0,001472299;0,537389314;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,5 V;0,99112859;30;0,000295714;0,325285033;0,010842834;3,957634572;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,5 V;0,98328229;65;0,000257196;0,282915092;0,00435254;1,588677057;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,5 V;0,97662149;105;0,000222652;0,244917724;0,00233255;0,851380659;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,5 V;0,97032198;140;0,000211986;0,233184443;0,001665603;0,607945155;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,6 V;0,98795638;30;0,000401454;0,4415994;0,01471998;5,3727927;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,6 V;0,97911331;65;0,000321334;0,353467062;0,005437955;1,984853499;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,6 V;0,97036792;105;0,00028221;0,310431314;0,002956489;1,079118378;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-APR18650M-A1;1100;;3,6 V;0,96261764;140;0,000267017;0,293718543;0,00209799;0,765766201;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
-NCR18650B;3200;;3,586 V;1,00029806;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,586 V;1,03588151;35;-0,001025186;-3,2805952;-0,093731291;-34,21192137;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,586 V;1,0265131;65;-0,000407894;-1,305260308;-0,020080928;-7,329538651;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,586 V;1,01870534;105;-0,000178146;-0,570067505;-0,005429214;-1,981663231;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,586 V;1,01137206;140;-8,1229E-05;-0,2599328;-0,001856663;-0,677681943;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,7 V;1,01465919;30;-0,00048864;-1,563646933;-0,052121564;-19,02437102;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,7 V;1,00552976;65;-8,50732E-05;-0,272234338;-0,004188221;-1,528700516;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,7 V;0,99855631;105;1,37494E-05;0,043998171;0,00041903;0,152946024;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,7 V;0,99372702;140;4,4807E-05;0,1433824;0,00102416;0,3738184;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,8 V;0,99105236;30;0,000298255;0,954414933;0,031813831;11,61204836;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,8 V;0,98442693;65;0,000239586;0,766674215;0,011794988;4,305170594;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,8 V;0,97888417;105;0,000201103;0,643530057;0,006128858;2,237033056;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;3,8 V;0,97357799;140;0,000188729;0,603931657;0,004313798;1,574536106;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,0 V;0,99057573;30;0,000314142;1,005255467;0,033508516;12,23060818;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,0 V;0,98311492;65;0,00025977;0,831265477;0,0127887;4,66787537;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,0 V;0,97721476;105;0,000217002;0,694407314;0,006613403;2,413892093;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,0 V;0,9725047;140;0,000196395;0,628464;0,004489029;1,638495429;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,2 V;0,98604491;30;0,00046517;1,488542933;0,049618098;18,11060569;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,2 V;0,97643859;65;0,000362483;1,159946338;0,017845328;6,513544824;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,2 V;0,96898823;105;0,00029535;0,94512061;0,009001149;3,285419262;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-NCR18650B;3200;;4,2 V;0,96296669;140;0,000264524;0,846475657;0,006046255;2,206882963;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
-UR18650AAN;2150;;3,520 V;0,99998252;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,520 V;1,00836221;35;-0,00023892;-0,513678614;-0,014676532;-5,35693412;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,520 V;1,00509922;65;-7,84495E-05;-0,168666508;-0,002594869;-0,947127312;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,520 V;0,99957892;105;4,01029E-06;0,008622114;8,21154E-05;0,029972112;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,520 V;0,99253782;140;5,33013E-05;0,114597764;0,000818555;0,298772743;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,7 V;0,9999181;30;2,73E-06;0,0058695;0,00019565;0,07141225;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,7 V;0,99870074;65;1,99886E-05;0,042975523;0,000661162;0,241324091;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,7 V;0,99742839;105;2,44915E-05;0,052656776;0,000501493;0,183044984;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,7 V;0,9961045;140;2,7825E-05;0,05982375;0,000427313;0,155969063;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,8 V;0,99577474;30;0,000140842;0,3028103;0,010093677;3,684191983;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,8 V;0,99230214;65;0,000118429;0,254621523;0,003917254;1,429797783;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,8 V;0,98961395;105;9,89148E-05;0,212666738;0,002025398;0,73927009;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;3,8 V;0,98666382;140;9,52584E-05;0,204805621;0,001462897;0,533957513;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,0 V;0,99294276;30;0,000235241;0,505768867;0,016858962;6,153521211;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,0 V;0,98947003;65;0,000162;0,348299008;0,005358446;1,955832889;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,0 V;0,98662419;105;0,000127389;0,273885633;0,002608435;0,95207863;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,0 V;0,98398899;140;0,000114364;0,245883368;0,00175631;0,641053066;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,2 V;0,98822248;30;0,000392584;0,8440556;0,028135187;10,26934313;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,2 V;0,98396298;65;0,000246723;0,530455277;0,00816085;2,978710401;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,2 V;0,98095998;105;0,000181334;0,389867076;0,00371302;1,355252217;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
-UR18650AAN;2150;;4,2 V;0,97827227;140;0,000155198;0,333675854;0,002383399;0,869940618;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+APR18650M-A1;1100;;3,2;1,00015147;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,2;1,01215598;35;-0,000347314;-0,382045086;-0,010915574;-3,984184465;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,2;1,00838824;65;-0,00012905;-0,141954831;-0,00218392;-0,797130973;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,2;1,00734677;105;-6,99692E-05;-0,076966162;-0,000733011;-0,267549039;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,2;1,00612196;140;-4,37283E-05;-0,048101114;-0,000343579;-0,125406477;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,296;0,99837913;30;5,4029E-05;0,0594319;0,001981063;0,723088117;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,296;0,99606175;65;6,05885E-05;0,066647308;0,001025343;0,374250266;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,296;0,99311675;105;6,55548E-05;0,072110238;0,000686764;0,250668923;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,296;0,98989881;140;7,21514E-05;0,079366493;0,000566904;0,206919785;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,4;0,99511671;30;0,000162776;0,179053967;0,005968466;2,178489928;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,4;0,98844845;65;0,000177716;0,195487769;0,003007504;1,097739012;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,4;0,9808811;105;0,000182085;0,200293238;0,001907555;0,696257447;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,4;0,9737663;140;0,000187384;0,206121929;0,001472299;0,537389314;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,5;0,99112859;30;0,000295714;0,325285033;0,010842834;3,957634572;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,5;0,98328229;65;0,000257196;0,282915092;0,00435254;1,588677057;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,5;0,97662149;105;0,000222652;0,244917724;0,00233255;0,851380659;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,5;0,97032198;140;0,000211986;0,233184443;0,001665603;0,607945155;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,6;0,98795638;30;0,000401454;0,4415994;0,01471998;5,3727927;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,6;0,97911331;65;0,000321334;0,353467062;0,005437955;1,984853499;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,6;0,97036792;105;0,00028221;0,310431314;0,002956489;1,079118378;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+APR18650M-A1;1100;;3,6;0,96261764;140;0,000267017;0,293718543;0,00209799;0,765766201;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;LFP
+NCR18650B;3200;;3,586;1,00029806;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,586;1,03588151;35;-0,001025186;-3,2805952;-0,093731291;-34,21192137;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,586;1,0265131;65;-0,000407894;-1,305260308;-0,020080928;-7,329538651;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,586;1,01870534;105;-0,000178146;-0,570067505;-0,005429214;-1,981663231;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,586;1,01137206;140;-8,1229E-05;-0,2599328;-0,001856663;-0,677681943;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,7;1,01465919;30;-0,00048864;-1,563646933;-0,052121564;-19,02437102;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,7;1,00552976;65;-8,50732E-05;-0,272234338;-0,004188221;-1,528700516;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,7;0,99855631;105;1,37494E-05;0,043998171;0,00041903;0,152946024;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,7;0,99372702;140;4,4807E-05;0,1433824;0,00102416;0,3738184;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,8;0,99105236;30;0,000298255;0,954414933;0,031813831;11,61204836;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,8;0,98442693;65;0,000239586;0,766674215;0,011794988;4,305170594;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,8;0,97888417;105;0,000201103;0,643530057;0,006128858;2,237033056;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;3,8;0,97357799;140;0,000188729;0,603931657;0,004313798;1,574536106;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,0;0,99057573;30;0,000314142;1,005255467;0,033508516;12,23060818;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,0;0,98311492;65;0,00025977;0,831265477;0,0127887;4,66787537;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,0;0,97721476;105;0,000217002;0,694407314;0,006613403;2,413892093;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,0;0,9725047;140;0,000196395;0,628464;0,004489029;1,638495429;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,2;0,98604491;30;0,00046517;1,488542933;0,049618098;18,11060569;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,2;0,97643859;65;0,000362483;1,159946338;0,017845328;6,513544824;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,2;0,96898823;105;0,00029535;0,94512061;0,009001149;3,285419262;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+NCR18650B;3200;;4,2;0,96296669;140;0,000264524;0,846475657;0,006046255;2,206882963;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NCA
+UR18650AAN;2150;;3,520;0,99998252;0;0;0;0;0;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,520;1,00836221;35;-0,00023892;-0,513678614;-0,014676532;-5,35693412;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,520;1,00509922;65;-7,84495E-05;-0,168666508;-0,002594869;-0,947127312;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,520;0,99957892;105;4,01029E-06;0,008622114;8,21154E-05;0,029972112;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,520;0,99253782;140;5,33013E-05;0,114597764;0,000818555;0,298772743;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,7;0,9999181;30;2,73E-06;0,0058695;0,00019565;0,07141225;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,7;0,99870074;65;1,99886E-05;0,042975523;0,000661162;0,241324091;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,7;0,99742839;105;2,44915E-05;0,052656776;0,000501493;0,183044984;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,7;0,9961045;140;2,7825E-05;0,05982375;0,000427313;0,155969063;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,8;0,99577474;30;0,000140842;0,3028103;0,010093677;3,684191983;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,8;0,99230214;65;0,000118429;0,254621523;0,003917254;1,429797783;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,8;0,98961395;105;9,89148E-05;0,212666738;0,002025398;0,73927009;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;3,8;0,98666382;140;9,52584E-05;0,204805621;0,001462897;0,533957513;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,0;0,99294276;30;0,000235241;0,505768867;0,016858962;6,153521211;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,0;0,98947003;65;0,000162;0,348299008;0,005358446;1,955832889;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,0;0,98662419;105;0,000127389;0,273885633;0,002608435;0,95207863;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,0;0,98398899;140;0,000114364;0,245883368;0,00175631;0,641053066;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,2;0,98822248;30;0,000392584;0,8440556;0,028135187;10,26934313;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,2;0,98396298;65;0,000246723;0,530455277;0,00816085;2,978710401;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,2;0,98095998;105;0,000181334;0,389867076;0,00371302;1,355252217;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
+UR18650AAN;2150;;4,2;0,97827227;140;0,000155198;0,333675854;0,002383399;0,869940618;Evaluating the Aging-Induced Voltage Slippery as Cause for Float Currents of Lithium-ion Cells;NMC
